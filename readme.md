@@ -10,9 +10,6 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 > Don't forget to set the `JDBC URL` value as `jdbc:h2:mem:testdb` for H2 UI.
 
->password
->mvn test 
->we can add exception handling on this code.There is no exception handling
 
 ### Instructions
 
@@ -31,6 +28,10 @@ Application (with the embedded H2 database) is ready to be used ! You can access
   - Fix any bug you might find
 - Edit readme.md and add any comments. It can be about what you did, what you would have done if you had more time, etc.
 - Send us the link of your repository.
+- username axa
+- password axa 
+- mvn test 
+- we can add exception handling on this code.There is no exception handling need more time to 
 
 #### Restrictions
 - use java 8
