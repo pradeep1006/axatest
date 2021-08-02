@@ -10,7 +10,9 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 > Don't forget to set the `JDBC URL` value as `jdbc:h2:mem:testdb` for H2 UI.
 
-
+>password
+>mvn test 
+>we can add exception handling on this code.There is no exception handling
 
 ### Instructions
 
